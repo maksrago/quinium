@@ -4,7 +4,7 @@
 
 This is a fork of an application created for HackNYU under the education branch. Quinium is a powerful app that allows users to take pictures of text (handwritten or typed text) and create random quizzes based on the parsed data.
 
-**ORIGINAL PUSH OF THIS PROJECT CAN BE FOUND [HERE](https://github.com/renisalcedo/quinium)**
+**ORIGINAL PUSH OF THIS PROJECT CAN BE FOUND [HERE](https://github.com/renisalcedo/quinium)**!
 
 ## Built With
 
