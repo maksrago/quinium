@@ -2,7 +2,7 @@
 
 ## HackNYU 2018 Project
 
-This app is currently being worked on and is top-secret. We are unable to publicly release information at this time but will aim for a public launch date of March 25th, 2018. Thank you for your interest and we hope you can find some Red Bull to fuel your day.
+This is a fork of an application created for HackNYU under the education branch. Quinium is a powerful app that allows users to take pictures of text (handwritten or typed text) and create random quizzes based on the parsed data.
 
 ## Built With
 
@@ -19,7 +19,7 @@ This app is currently being worked on and is top-secret. We are unable to public
 
 * **Reni Salcedo** - [renisalcedo](https://github.com/renisalcedo)
 * **Thotsaphon (Ben) Janrungrodsakun** - [ThotsaphonB](https://github.com/ThotsaphonB)
-* **Maksymilian (Max) M. Rago** - [maksymilianmrago](https://github.com/maksymilianmrago) and [117chan](https://gitgud.io/117chan)
+* **Maksymilian (Maks) M. Rago** - [maksymilianmrago](https://github.com/maksmrago) and [117chan](https://gitgud.io/117chan)
 * **Winnie Tam** - [bubble29](https://github.com/bubble29)
 * **Vincent Xie** - [PokeLegoCuber](https://github.com/PokeLegoCuber)
 
@@ -32,4 +32,3 @@ This project is licensed by the MIT License.
 * HackNYU
 * HackNYU Sponsors
 * HackNYU Volunteers
-* My Mom
